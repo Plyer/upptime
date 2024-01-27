@@ -9,8 +9,6 @@ sites:
     url: https://freshrss.flyago.cn
   - name: halo
     url: https://blog.flyago.cn
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: RSSHub
     url: https://rsshub.flyago.cn
   - name: teslamate

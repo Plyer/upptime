@@ -4,18 +4,20 @@
     "url": "https://xiaoya.flyago.cn",
     "icon": "https://icons.duckduckgo.com/ip3/xiaoya.flyago.cn.ico",
     "slug": "xiaoya",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1546,
-    "timeDay": 1183,
-    "timeWeek": 1526,
+    "timeDay": 1363,
+    "timeWeek": 1528,
     "timeMonth": 1544,
     "timeYear": 1546,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-04": 0
+    }
   },
   {
     "name": "freshrss",

@@ -40,10 +40,10 @@
     "url": "https://blog.flyago.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.flyago.cn.ico",
     "slug": "halo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1790,
@@ -51,7 +51,9 @@
     "timeWeek": 1855,
     "timeMonth": 1711,
     "timeYear": 1790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 1
+    }
   },
   {
     "name": "RSSHub",

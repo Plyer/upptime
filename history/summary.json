@@ -40,19 +40,19 @@
     "url": "https://blog.flyago.cn",
     "icon": "https://icons.duckduckgo.com/ip3/blog.flyago.cn.ico",
     "slug": "halo",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1790,
-    "timeDay": 1798,
-    "timeWeek": 1855,
-    "timeMonth": 1711,
-    "timeYear": 1790,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.98%",
+    "time": 1777,
+    "timeDay": 1395,
+    "timeWeek": 1732,
+    "timeMonth": 1686,
+    "timeYear": 1777,
     "dailyMinutesDown": {
-      "2024-03-16": 1
+      "2024-03-16": 17
     }
   },
   {

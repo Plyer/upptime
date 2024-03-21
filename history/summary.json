@@ -4,19 +4,19 @@
     "url": "https://xiaoya.flyago.cn",
     "icon": "https://icons.duckduckgo.com/ip3/xiaoya.flyago.cn.ico",
     "slug": "xiaoya",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.89%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
-    "time": 1607,
-    "timeDay": 2398,
-    "timeWeek": 1906,
-    "timeMonth": 1648,
-    "timeYear": 1607,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.85%",
+    "time": 1610,
+    "timeDay": 2278,
+    "timeWeek": 1897,
+    "timeMonth": 1653,
+    "timeYear": 1610,
     "dailyMinutesDown": {
-      "2024-03-21": 16
+      "2024-03-21": 112
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/freshrss.flyago.cn.ico",
     "slug": "freshrss",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.84%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "92.25%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.86%",
     "time": 1567,
     "timeDay": 2129,
     "timeWeek": 1763,
     "timeMonth": 1614,
     "timeYear": 1567,
     "dailyMinutesDown": {
-      "2024-03-21": 16
+      "2024-03-21": 112
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/blog.flyago.cn.ico",
     "slug": "halo",
     "status": "down",
-    "uptime": "98.71%",
-    "uptimeDay": "31.47%",
-    "uptimeWeek": "90.04%",
-    "uptimeMonth": "97.71%",
-    "uptimeYear": "98.71%",
+    "uptime": "98.58%",
+    "uptimeDay": "24.82%",
+    "uptimeWeek": "89.09%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "98.58%",
     "time": 1756,
     "timeDay": 1321,
     "timeWeek": 1523,
     "timeMonth": 1637,
     "timeYear": 1756,
     "dailyMinutesDown": {
-      "2024-03-21": 534,
+      "2024-03-21": 629,
       "2024-03-20": 453,
       "2024-03-16": 17
     }
@@ -67,18 +67,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.flyago.cn.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "98.93%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.86%",
+    "uptimeDay": "92.28%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.75%",
+    "uptimeYear": "99.86%",
     "time": 1310,
     "timeDay": 2042,
     "timeWeek": 1635,
     "timeMonth": 1393,
     "timeYear": 1310,
     "dailyMinutesDown": {
-      "2024-03-21": 15
+      "2024-03-21": 111
     }
   },
   {
@@ -86,19 +86,19 @@
     "url": "https://flyago.cn/site.webmanifest",
     "icon": "https://icons.duckduckgo.com/ip3/flyago.cn.ico",
     "slug": "teslamate",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "97.17%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.95%",
-    "time": 1255,
-    "timeDay": 1786,
-    "timeWeek": 1407,
-    "timeMonth": 1264,
-    "timeYear": 1255,
+    "status": "up",
+    "uptime": "99.82%",
+    "uptimeDay": "90.52%",
+    "uptimeWeek": "98.65%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.82%",
+    "time": 1260,
+    "timeDay": 1698,
+    "timeWeek": 1420,
+    "timeMonth": 1272,
+    "timeYear": 1260,
     "dailyMinutesDown": {
-      "2024-03-21": 41
+      "2024-03-21": 137
     }
   }
 ]
